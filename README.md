@@ -1,5 +1,9 @@
 # bsd-find-movie-app (Find Movie App)
 
+## Design Preview
+
+Design Preview: [https://xd.adobe.com/view/806e921d-bc44-430e-859e-9230efd519a9-d53d/](https://xd.adobe.com/view/806e921d-bc44-430e-859e-9230efd519a9-d53d/)
+
 ## Requirement
 
 * Get free API key from OMDb API, (or any similar movies API you can find). Study the documentation before starting implementation.
